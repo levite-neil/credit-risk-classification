@@ -1,6 +1,6 @@
 # credit-risk-classification
 
-The purpose of this analysis was to determine how well the logisitic regression model could predict health loans from high-risk loans. 
+The purpose of this analysis was to determine how well the logisitic regression model could predict healthy loans from high-risk loans. 
 
 Results:
 * Accuracy .99
